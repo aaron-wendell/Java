@@ -1,0 +1,112 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TesteLeitura",
+            "request": "launch",
+            "mainClass": "br.com.alura.java.io.Teste.TesteLeitura",
+            "projectName": "io"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteLeitura2",
+            "request": "launch",
+            "mainClass": "br.com.alura.java.io.Teste.TesteLeitura2",
+            "projectName": "io"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteArrayDePrimitivos",
+            "request": "launch",
+            "mainClass": "Bibliotecas.TesteArrayDePrimitivos",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fluxo",
+            "request": "launch",
+            "mainClass": "Fluxo",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch olamundo",
+            "request": "launch",
+            "mainClass": "olamundo",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fluxo",
+            "request": "launch",
+            "mainClass": "Fluxo",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch novaconta",
+            "request": "launch",
+            "mainClass": "Conta.novaconta",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch testefuncionario",
+            "request": "launch",
+            "mainClass": "Funcionario.testefuncionario",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch testesistema",
+            "request": "launch",
+            "mainClass": "Funcionario.testesistema",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch condicionais",
+            "request": "launch",
+            "mainClass": "condicionais",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch fatorial",
+            "request": "launch",
+            "mainClass": "fatorial",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch repeticoes",
+            "request": "launch",
+            "mainClass": "repeticoes",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch tabuada",
+            "request": "launch",
+            "mainClass": "tabuada",
+            "projectName": "Java_350a94f1"
+        },
+        {
+            "type": "java",
+            "name": "Launch testacaracteres",
+            "request": "launch",
+            "mainClass": "testacaracteres",
+            "projectName": "Java_350a94f1"
+        }
+    ]
+}
